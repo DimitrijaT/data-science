@@ -1,0 +1,11 @@
+tensorflow
+tensorflow_datasets
+torch
+torchvision
+sklearn
+numpy
+matplotlib
+pandas
+os
+datetime
+randomn
